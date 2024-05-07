@@ -1,3 +1,3 @@
-module github.com/chandradevGo/Go-Project-1
+module mymodule
 
 go 1.22.2
