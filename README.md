@@ -1,1 +1,1 @@
-# Go-Project-1
+# Stringer Interface - wrapper function for logging
